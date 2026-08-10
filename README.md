@@ -2,6 +2,7 @@
 Useful for producing and documenting ASCII Tree Maps of a Python file's Class/Function structure.   
   
 Written in pure Python 3.12+, with no other dependencies.  
+Tested on Windows 7, 10 & 11.  
   
 #### Screen Shot – Classes and Functions of any Python file are detailed in a ASCII treeview. Any function “Decorators” are shown alongside the function name.   
  ![app screen shot](images/screen_shot.PNG)   
